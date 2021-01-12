@@ -1,2 +1,2 @@
 firstName = "Ky" #String type
-favBook = 3 #
+favNumber = 3 #string
